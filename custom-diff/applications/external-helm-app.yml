@@ -34,4 +34,4 @@ spec:
     name: example-secret
     namespace: example02
     jsonPointers:
-    - /data/my-username
+    - /data/my-password
